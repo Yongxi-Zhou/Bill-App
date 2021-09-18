@@ -1,0 +1,25 @@
+.loginBtn {
+  border: none;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+  height: 42px;
+  background-color: RGB(249, 219, 97);
+  color: black;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+@import "../../common.css";
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-login {
+  min-width: 320px;
+  width: 18rem;
+  margin: 0 auto;
+  font-family: Arial, Helvetica;
+  background: #f2f2f2;
+}
